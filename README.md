@@ -1,11 +1,11 @@
 # hola-mundo-en-java
 
-## Descripci髇
+## Descripci贸n
 
 El programa "Hola mundo" simplemente muestra "Hola mundo" por pantalla. Es muy sencillo y suele
-ser el programa que realiza alguien que quiere aprender un nuevo lenguaje de programaci髇.
+ser el programa que realiza alguien que quiere aprender un nuevo lenguaje de programaci贸n.
 
-## Compilaci髇 y ejecuci髇 del programa
+## Compilaci贸n y ejecuci贸n del programa
 
 Para **compilar** el programa teclea lo siguiente (es necesario tener el *JDK*):
 
@@ -20,4 +20,4 @@ java HolaMundo
 ```
 
 ## Aprendizaje de Java
-Te recomiendo el libro [Aprende Java con Ejercicios] (https://leanpub.com/aprendejava) :wink:
+Te recomiendo el libro [Aprende Java con Ejercicios](https://leanpub.com/aprendejava) :wink:
