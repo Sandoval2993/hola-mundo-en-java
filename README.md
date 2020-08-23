@@ -11,8 +11,10 @@ Para **compilar** el programa teclea lo siguiente (es necesario tener el *JDK*):
 
 ```console
 javac HolaMundo.java
+```
 
 y para **ejecutarlo**:
 
 ```console
 java HolaMundo
+```
