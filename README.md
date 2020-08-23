@@ -18,3 +18,6 @@ y para **ejecutarlo**:
 ```console
 java HolaMundo
 ```
+
+## Aprendizaje de Java
+Te recomiendo el libro [Aprende Java con Ejercicios] (https://leanpub.com/aprendejava) :wink:
